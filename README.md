@@ -1,0 +1,2 @@
+# Stats preview card component with html and css
+ This is my third completed challenge for Frontend Mentor. I do these challenges as a way to solidify and enhance my front-end development skills, and as an opportunity to learn more about  CSS, JS and HTML accessibility best-practices.  For these challenges I am given JPGs of the final product, fonts, font sizes, and colors. I am not given exact dimensions, so I have to guess!
